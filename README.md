@@ -15,7 +15,7 @@ A modern, reusable SwiftUI component for text inputs and password fields with an
 
 | Email + Password Example |
 |--------------------------|
-| ![Preview screenshot](preview.png) |
+| ![Preview screenshot](IMG_1783.png) |
 
 ## 📦 Components
 
